@@ -37,3 +37,6 @@ useEffect(() => { }, [])
     - no dependency - re-render every time
     - empty dependency - re-render occurs only once
     - including state variable - re-render occurs when the variable changes
+
+## Conditional Rendering
+
